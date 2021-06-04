@@ -1,0 +1,13 @@
+#container {
+  height: auto;
+  width: auto;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  border: 1px solid black;
+}
+
+.grid-item {
+  width: 10px;
+  height: 10px;
+}
